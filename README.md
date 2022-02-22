@@ -1,2 +1,4 @@
-# Meus-Aprendizados
-Repositório de com os projetos dos estudos
+# Repositório de aprendizado
+Onde armazendo estudos, desafios, brincadeiras com códigos.
+
+## Pastas
