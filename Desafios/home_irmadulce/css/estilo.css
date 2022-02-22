@@ -1,0 +1,159 @@
+body{
+        background: ;
+}
+
+#contain{
+    width: 80%;
+    margin: auto;
+    background: white;
+}
+
+#topo{
+    border: 20px solid rgb(199, 217, 229);
+    border-radius: 8px;
+    background-color: rgb(199, 217, 229);
+    transition: 1s;
+    text-align: right;
+    letter-spacing: 2px;
+    font-family: tahoma, sans-serif;
+    font-weight:100;
+    padding: 5px;
+    color: rgb(25, 79, 109);
+    font-size: 12px;
+    font-style: italic;
+
+}
+#topo ul{
+		float: left;
+		position: relative;
+		top: -8px;
+		right:10px;
+}
+
+#topo li{
+	list-style:none;
+	margin-left: 15px;
+	display: inline-block;
+}
+
+#topo a{
+	text-decoration: none;
+	color: rgb(25, 79, 109);
+	letter-spacing: 3px;
+    font-family: arial, sans-serif;
+	font-size: 14px;
+    font-style: black;
+	
+}
+
+#topo a:hover{
+	text-decoration: none;
+	color: rgb(0, 23, 47);
+	
+}
+
+#topo img{
+    float: left;
+    position: relative;
+    top: -15px;
+    left: 0px;
+    max-width: 70px;
+    border-radius: 4px;    
+}
+
+#topo h1{
+    display: inline-block;
+    position: relative;
+    right: 20px;
+
+}
+
+
+main{
+    letter-spacing: 3px;
+    font-family: arial, sans-serif;
+    text-align: center;
+}
+
+.icon{
+        line-height: 1.5;
+}
+
+.icon h1{
+    font-family: arial black, sans-serif;
+    margin-top: 80px;
+}
+
+.icon p{
+    width: 90%;
+    margin: auto;
+    color: #535552;
+
+}
+
+.content_portfolio{
+            
+            overflow: auto;
+			width: 100%;
+			margin: auto 50px;
+			
+}
+
+.icon{
+    margin-top: 50px;
+	padding-left: 5px;
+    float: left;
+    width: 30%;
+    position: relative;
+    color: #535552;
+    font-weight: 100;
+    transition: 1s;
+}
+
+
+
+.icon img{
+    width: 300px;
+    height: 220px;
+    border: 10px solid rgb(199, 217, 229);
+    border-radius: 8px;
+    transition: .3s;
+}
+
+.icon img:hover{
+    width: 300px;
+    height: 220px;
+    border: 10px solid rgb(110, 186, 237);
+    border-radius: 8px;
+    position: relative;
+    top: -3px;
+    filter: none;
+    transition: 0s;
+}
+
+.icon h3{
+    text-transform: uppercase;
+    font-family: tahoma black, sans-serif;
+    font-weight: 100;
+}
+
+
+
+footer{
+    margin-top:  30px;
+    border: 3px solid rgb(199, 217, 229);
+    background-color: rgb(199, 217, 229);
+	border-radius: 8px;
+
+}
+
+footer p{
+    text-align: center;
+    letter-spacing: 2px;
+    font-family: tahoma, sans-serif;
+    font-weight:100;
+    padding: 5px;
+    color: rgb(25, 79, 109);
+    font-size: 12px; 
+	font-style: italic;
+}
